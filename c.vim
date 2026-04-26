@@ -1,4 +1,4 @@
-highlight cComment ctermfg=243
+highlight cComment ctermfg=243 # 243 ANSI number or xterm number
 "highlight cKeyword ctermfg=Yellow
 "highlight cString ctermfg=Magenta
 highlight cType ctermfg=2
