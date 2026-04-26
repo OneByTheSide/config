@@ -9,7 +9,7 @@
 (setq display-line-numbers t)
 (global-display-line-numbers-mode)
 (setq blink-cursor-mode nil)
-(add-to-list 'custom-theme-load-path "~/embxtheme")
+(add-to-list 'custom-theme-load-path "~/emxtheme")
 
 ;show font that u have (font-family-list)
 (load-theme 'some :no-confirm)
