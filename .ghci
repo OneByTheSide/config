@@ -1,2 +1,3 @@
 :set editor vim
-
+:set -Wall -Wextra -fkeep-going -Wimplicit-prelude -Wtabs -fhelpful-errors -Wincomplete-patterns -no-keep-hi-files -no-keep-o-files
+:set -XNoImplicitPrelude
