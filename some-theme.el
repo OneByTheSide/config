@@ -7,7 +7,7 @@
 (custom-theme-set-faces
  'some
  '(cursor ((t (:background "#8e8e8e"))))
- '(default ((t (:background "#808080" :foreground "#f7f7f7"))))
+ '(default ((t (:background "#0c0c0c" :foreground "#808080"))))
  '(font-lock-keyword-face ((t (:foreground "#ffff00" :bold t))))
  '(font-lock-builtin-face ((t (:foreground "#ffff00" :bold t))))
  '(font-lock-preprocessor-face ((t (:foreground "#00ffff" :bold t))))
