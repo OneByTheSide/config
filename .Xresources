@@ -1,5 +1,5 @@
 XTerm.VT100*background:rgb:0c/0c/0c
-XTerm.VT100*foreground:rgb:f7/f7/f7
+XTerm.VT100*foreground:rgb:80/80/80
 
 !!!!!below work
 XTerm.vt100.geometry:100x30+100+100
