@@ -6,8 +6,8 @@
 ; if some-theme used here,emacs would not recognize because now the file should be some-theme-theme.el now
 (custom-theme-set-faces
  'some
- '(cursor ((t (:background "#808080"))))
- '(default ((t (:background "#0c0c0c" :foreground "#f7f7f7"))))
+ '(cursor ((t (:background "#8e8e8e"))))
+ '(default ((t (:background "#808080" :foreground "#f7f7f7"))))
  '(font-lock-keyword-face ((t (:foreground "#ffff00" :bold t))))
  '(font-lock-builtin-face ((t (:foreground "#ffff00" :bold t))))
  '(font-lock-preprocessor-face ((t (:foreground "#00ffff" :bold t))))
