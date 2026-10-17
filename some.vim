@@ -10,7 +10,7 @@ highlight Number ctermfg=92
 highlight Float ctermfg=92
 highlight Boolean ctermfg=92
 
-"Identifier
+highlight Identifier ctermfg=32
 highlight Function ctermfg=6
 
 "Statement
